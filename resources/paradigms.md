@@ -1,0 +1,3 @@
+# Paradigms
+
+* [Object-Oriented vs. Functional Programming](https://www.oreilly.com/programming/free/files/object-oriented-vs-functional-programming.pdf?mkt_tok=eyJpIjoiTlRFMll6STBNekE1TVRZdyIsInQiOiJ1cmRcLzBTRTJwUEJzUHZDcmY3NzFDazBLVFplc3Qyb1wvd2R5Wkp3eUJ4WUVOUlVRYTZlVVRTUDlteDR5ZlZ0bG1JQUZqN0RFNWcreWlGcUZWSEdqZk5aemROQjZWbExUcTRLVG1hR3N3S05zeEc3OW5QblUxTE9QT0pueTBDdUhoIn0%3D)
